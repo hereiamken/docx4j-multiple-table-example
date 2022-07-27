@@ -56,6 +56,7 @@ public class WordReporting {
     }
 
     /**
+     * get template file from path file
      * @param name
      * @return
      * @throws Docx4JException
