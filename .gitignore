@@ -31,7 +31,6 @@ gen/**
 .gradle/
 build/
 bin/
-gradle/
 
 ### NetBeans ###
 /nbproject/private/
