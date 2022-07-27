@@ -16,5 +16,5 @@ repositories {
 }
 
 dependencies {
-    compile group: 'org.docx4j', name: 'docx4j', version: '6.1.2'
+    implementation group: 'org.docx4j', name: 'docx4j', version: '6.1.2'
 }
